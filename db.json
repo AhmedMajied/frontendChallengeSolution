@@ -1,0 +1,19 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Ahmed Mohamed Ahmed",
+      "statusID": 3
+    },
+    {
+      "id": 2,
+      "name": "Ahmed Abd El-Majied",
+      "statusID": 3
+    },
+    {
+      "id": 3,
+      "name": "Ahmed Majied",
+      "statusID": 5
+    }
+  ]
+}
